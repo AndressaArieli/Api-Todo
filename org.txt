@@ -1,0 +1,23 @@
+API TO DO
+
+
+//
+//DADOS DA TEREFA
+//ESTRUTURAR AS FUNÇÕES DAS TAREFAS  = 
+    //ENDPOINTS
+            //VALIDAÇÕES = FUNÇÃO DE VALIDAÇÃO
+            //
+
+        //POST = ENVIAR A TAREFA(CRIAR)
+            /
+        //GET = MOSTRAR A TAREFA
+            //check-val
+            //FU
+        //PUT = ALTERAR A TAREFA
+        //PUSH = ALTERAR APENAS 1 COISA DA TAREFA
+        //DELETE = EXCLUIR A TAREFA
+    //TAREFAS=ARREY
+        //ID
+        //TITULO
+        //DESCRIÇÃO
+        //STATUS
