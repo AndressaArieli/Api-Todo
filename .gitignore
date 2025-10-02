@@ -1,3 +1,4 @@
 /node_modules
 eslint.config.js
 /src/models/connection.js
+.vscode
